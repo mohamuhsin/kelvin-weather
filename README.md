@@ -1,6 +1,6 @@
 # kelvin-Weather
 
-A simple program that converts kelvin to Celsius, then to Fahrenheit. The instructions are as 
+A simple program that converts kelvin to Celsius, then to Fahrenheit. The instruc
 
 # introduction
 Deep in his mountain-side meteorology lab, the mad scientist Kelvin has mastered weather prediction.
