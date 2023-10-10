@@ -12,7 +12,7 @@ With our knowledge of JavaScript, let’s convert Kelvin to Celsius, then to Fah
 Kelvin, Celsius, and Fahrenheit thermometers
 For example, 283 K converts to 10 °C which converts to 50 °F.
 
-# Tasks to Accomplish
+# Tasks Accomplished
 
 The forecast today is 293 Kelvin. To start, create a variable named kelvin, and set it equal to 293.
 The value saved to Kelvin will stay constant. Choose the variable type with this in mind.
