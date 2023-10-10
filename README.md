@@ -29,7 +29,6 @@ Use the .floor() method from the built-in Math object to round down the Fahrenhe
 
 Use console.log and string interpolation to log the temperature in Fahrenheit to the console as follows:
 The temperature is TEMPERATURE degrees Fahrenheit.
-
 Use string interpolation to replace TEMPERATURE with the value saved to Fahrenheit.
 
 6. Run your program to see your results!
