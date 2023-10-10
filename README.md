@@ -20,7 +20,7 @@ The value saved to Kelvin will stay constant. Choose the variable type with this
 #2 Celsius is similar to Kelvin — the only difference is that Celsius is 273 degrees less than Kelvin.
 Let’s convert Kelvin to Celsius by subtracting 273 from the Kelvin variable. Store the result in another variable, named Celsius.
 
-Use this equation to calculate Fahrenheit, then store the answer in a variable named Fahrenheit.
+#3 Use this equation to calculate Fahrenheit, then store the answer in a variable named Fahrenheit.
 Fahrenheit = Celsius * (9/5) + 32
 In the next step, we will round the number saved to Fahrenheit. Choose the variable type that allows you to change its value.
 
