@@ -37,3 +37,6 @@ Use string interpolation to replace TEMPERATURE with the value saved to Fahrenhe
 What’s 0 Kelvin in Fahrenheit?
 
 Great work! Kelvin can now publish his forecasts in Celsius and Fahrenheit.
+
+# NOTE
+DON'T FORGET TO COMMENT ON YOUR WORK FOR OTHER DEVELOPERS TO UNDERSTAND IT.
