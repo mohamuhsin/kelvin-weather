@@ -33,7 +33,7 @@ Use string interpolation to replace TEMPERATURE with the value saved to Fahrenhe
 
 #6 Run your program to see your results!
 
-By using variables, your program should work for any Kelvin temperature — just change the value of Kelvin and run the program again.
+#7 By using variables, your program should work for any Kelvin temperature — just change the value of Kelvin and run the program again.
 What’s 0 Kelvin in Fahrenheit?
 
 Great work! Kelvin can now publish his forecasts in Celsius and Fahrenheit.
