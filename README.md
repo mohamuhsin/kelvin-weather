@@ -31,7 +31,7 @@ Use console.log and string interpolation to log the temperature in Fahrenheit to
 The temperature is TEMPERATURE degrees Fahrenheit.
 Use string interpolation to replace TEMPERATURE with the value saved to Fahrenheit.
 
-6. Run your program to see your results!
+Run your program to see your results!
 
 7. By using variables, your program should work for any Kelvin temperature — just change the value of Kelvin and run the program again.
 
