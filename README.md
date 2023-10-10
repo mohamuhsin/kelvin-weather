@@ -27,8 +27,7 @@ In the next step, we will round the number saved to Fahrenheit. Choose the varia
 When you convert from Celsius to Fahrenheit, you often get a decimal number.
 Use the .floor() method from the built-in Math object to round down the Fahrenheit temperature. Save the result to the Fahrenheit variable.
 
-5. Use console.log and string interpolation to log the temperature in Fahrenheit to the console as follows:
-
+Use console.log and string interpolation to log the temperature in Fahrenheit to the console as follows:
 The temperature is TEMPERATURE degrees Fahrenheit.
 
 Use string interpolation to replace TEMPERATURE with the value saved to Fahrenheit.
