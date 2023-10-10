@@ -22,11 +22,9 @@ Let’s convert Kelvin to Celsius by subtracting 273 from the Kelvin variable. S
 
 Use this equation to calculate Fahrenheit, then store the answer in a variable named Fahrenheit.
 Fahrenheit = Celsius * (9/5) + 32
-
 In the next step, we will round the number saved to Fahrenheit. Choose the variable type that allows you to change its value.
 
-4. When you convert from Celsius to Fahrenheit, you often get a decimal number.
-
+When you convert from Celsius to Fahrenheit, you often get a decimal number.
 Use the .floor() method from the built-in Math object to round down the Fahrenheit temperature. Save the result to the Fahrenheit variable.
 
 5. Use console.log and string interpolation to log the temperature in Fahrenheit to the console as follows:
