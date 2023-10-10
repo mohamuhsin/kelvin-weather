@@ -36,4 +36,4 @@ Run your program to see your results!
 By using variables, your program should work for any Kelvin temperature — just change the value of Kelvin and run the program again.
 What’s 0 Kelvin in Fahrenheit?
 
-8. Great work! Kelvin can now publish his forecasts in Celsius and Fahrenheit.
+Great work! Kelvin can now publish his forecasts in Celsius and Fahrenheit.
