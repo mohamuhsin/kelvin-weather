@@ -1,4 +1,4 @@
-# kelvin-weather
+# kelvin-Weather
 
 A simple program that converts kelvin to Celsius, then to Fahrenheit. The instructions are as follows: 
 
